@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PNAleksandrov
+- 👋 Hi, I’m Pavel Aleksandrov, @PNAleksandrov
 - 👀 I’m interested in paragliding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on just studing
